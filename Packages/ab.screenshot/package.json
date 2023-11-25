@@ -1,0 +1,15 @@
+{
+  "name": "ab.screenshot",
+  "displayName": "Aburi \u64ae\u5f71\u30c4\u30fc\u30eb",
+  "version": "0.0.1",
+  "description": "\u64ae\u5f71\u30c4\u30fc\u30eb",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Aburizushi",
+    "email": "aki@aki017.info"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
